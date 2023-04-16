@@ -1,0 +1,86 @@
+{
+	"dialogue": [
+		{
+			"boxState": "angry",
+			"expression": "confused",
+			"portrait": "BBGrr",
+			"text": "What the fuck where am I?"
+		},
+		{
+			"expression": "talk",
+			"text": "Hello!",
+			"boxState": "normal",
+			"portrait": "gloopy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "shocked",
+			"text": "AH WHAT THE FUCK WHO ARE YOU??!!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "My name is Gloopy :)",
+			"boxState": "normal",
+			"portrait": "gloopy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "shocked",
+			"text": "WHAT THE FUCK I DON'T KNOW WHERE I AM I DON'T KNOW WHO YOU ARE I WANT TO GO HOME I DIDN'T WANT ANY OF THIS JUST LET ME GO HOME PLEASE I MISS My nfjdksidfjdnmaleleodkajdmdkskaslasos,dkemskskamandje ejdndj vdlsfkasdfkjnasdfakjsndfkjnascvkljiourbeasfviasdkjvbklasdbvknsark",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "excited",
+			"text": "Rap time :)",
+			"boxState": "normal",
+			"portrait": "gloopy",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.28
+		},
+		{
+			"expression": "pissed",
+			"text": "Listen if you don't rap battle me i will lock you in my basebent and feed you snail shells untill you pass out, you dick.",
+			"boxState": "normal",
+			"portrait": "gloopy",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "ok.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "now pick up your damn mic, and start rapping, bitch.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gloopy"
+		},
+		{
+			"expression": "talk",
+			"text": "ok.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

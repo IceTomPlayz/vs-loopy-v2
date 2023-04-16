@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Peenat idle"
+		},
+		{
+			"offsets": [
+				0,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Peenat up"
+		},
+		{
+			"offsets": [
+				0,
+				-158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Peenat down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-142
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Peenat left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-140
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Peenat right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Peenat",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "peenat",
+	"flip_x": true,
+	"healthbar_colors": [
+		223,
+		170,
+		101
+	],
+	"camera_position": [
+		-80,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

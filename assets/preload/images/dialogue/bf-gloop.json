@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-20,
+		-50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "talknormal",
+			"idle_name": "talknormal"
+		},
+		{
+			"loop_name": "grahhmad",
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"idle_name": "grahhmad",
+			"anim": "laugh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "wtf",
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"idle_name": "wtf",
+			"anim": "mad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bfdialogue"
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nightsky.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="move0000" x="0" y="0" width="2963" height="408" frameX="-2143" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0001" x="0" y="0" width="2963" height="408" frameX="-2031" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0002" x="0" y="0" width="2963" height="408" frameX="-1918" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0003" x="0" y="0" width="2963" height="408" frameX="-1805" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0004" x="0" y="0" width="2963" height="408" frameX="-1692" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0005" x="0" y="0" width="2963" height="408" frameX="-1579" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0006" x="0" y="0" width="2963" height="408" frameX="-1467" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0007" x="0" y="0" width="2963" height="408" frameX="-1354" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0008" x="0" y="0" width="2963" height="408" frameX="-1241" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0009" x="0" y="0" width="2963" height="408" frameX="-1128" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0010" x="0" y="0" width="2963" height="408" frameX="-1015" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0011" x="0" y="0" width="2963" height="408" frameX="-903" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0012" x="0" y="0" width="2963" height="408" frameX="-790" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0013" x="0" y="0" width="2963" height="408" frameX="-677" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0014" x="0" y="0" width="2963" height="408" frameX="-564" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0015" x="0" y="0" width="2963" height="408" frameX="-452" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0016" x="0" y="0" width="2963" height="408" frameX="-339" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0017" x="0" y="0" width="2963" height="408" frameX="-226" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0018" x="0" y="0" width="2963" height="408" frameX="-113" frameY="0" frameWidth="5106" frameHeight="408"/>
+	<SubTexture name="move0019" x="0" y="0" width="2963" height="408" frameX="0" frameY="0" frameWidth="5106" frameHeight="408"/>
+</TextureAtlas>

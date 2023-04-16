@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		160,
+		140
+	],
+	"scale": 2.15,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "normal",
+			"idle_name": "normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "mad",
+			"idle_name": "mad"
+		}
+	],
+	"image": "Gloopy_Dialogue"
+}

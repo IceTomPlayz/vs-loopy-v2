@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BB_Background.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bblaugh0000" x="0" y="0" width="293" height="351" frameX="-13" frameY="-8" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="bblaugh0001" x="0" y="0" width="293" height="351" frameX="-13" frameY="-8" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="bblaugh0002" x="293" y="0" width="301" height="355" frameX="-6" frameY="0" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="bblaugh0003" x="293" y="0" width="301" height="355" frameX="-6" frameY="0" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="bblaugh0004" x="594" y="0" width="295" height="345" frameX="-2" frameY="-8" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="bblaugh0005" x="594" y="0" width="295" height="345" frameX="-2" frameY="-8" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="bblaugh0006" x="0" y="355" width="295" height="345" frameX="0" frameY="-8" frameWidth="307" frameHeight="359"/>
+	<SubTexture name="bblaugh0007" x="0" y="355" width="295" height="345" frameX="0" frameY="-8" frameWidth="307" frameHeight="359"/>
+</TextureAtlas>

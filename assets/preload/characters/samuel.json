@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-230,
+				-360
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-231,
+				-360
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-231,
+				-360
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-231,
+				-360
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-230,
+				-360
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftsam",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Blunder_Samuel_Assets",
+	"position": [
+		-260,
+		-330
+	],
+	"healthicon": "blunder",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		153,
+		0
+	],
+	"camera_position": [
+		60,
+		400
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

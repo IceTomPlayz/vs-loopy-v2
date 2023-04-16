@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BBGDance_BG.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bbg dance lol0000" x="0" y="0" width="284" height="386" frameX="0" frameY="-14" frameWidth="295" frameHeight="400"/>
+	<SubTexture name="bbg dance lol0001" x="0" y="0" width="284" height="386" frameX="0" frameY="-14" frameWidth="295" frameHeight="400"/>
+	<SubTexture name="bbg dance lol0002" x="284" y="0" width="293" height="389" frameX="-2" frameY="-11" frameWidth="295" frameHeight="400"/>
+	<SubTexture name="bbg dance lol0003" x="284" y="0" width="293" height="389" frameX="-2" frameY="-11" frameWidth="295" frameHeight="400"/>
+	<SubTexture name="bbg dance lol0004" x="577" y="0" width="272" height="399" frameX="-6" frameY="-1" frameWidth="295" frameHeight="400"/>
+	<SubTexture name="bbg dance lol0005" x="577" y="0" width="272" height="399" frameX="-6" frameY="-1" frameWidth="295" frameHeight="400"/>
+	<SubTexture name="bbg dance lol0006" x="0" y="399" width="257" height="400" frameX="-6" frameY="0" frameWidth="295" frameHeight="400"/>
+	<SubTexture name="bbg dance lol0007" x="0" y="399" width="257" height="400" frameX="-6" frameY="0" frameWidth="295" frameHeight="400"/>
+	<SubTexture name="bbg dance lol0008" x="257" y="399" width="260" height="400" frameX="-6" frameY="0" frameWidth="295" frameHeight="400"/>
+	<SubTexture name="bbg dance lol0009" x="257" y="399" width="260" height="400" frameX="-6" frameY="0" frameWidth="295" frameHeight="400"/>
+</TextureAtlas>

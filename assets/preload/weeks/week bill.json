@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"improvise",
+			"bill",
+			[
+				0,
+				133,
+				255
+			]
+		],
+		[
+			"geek",
+			"bb",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"twofold tussle",
+			"billnbb",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "billtroshitz",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "BBGS BEATZ",
+	"weekName": "BGGS Beatzz",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week gloopy",
+	"startUnlocked": false
+}

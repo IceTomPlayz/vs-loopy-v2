@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RUN_BF_RUN_SEEK_SHELTER_HE_IS_CUMMING.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="374" height="413" frameX="0" frameY="-7" frameWidth="377" frameHeight="420"/>
+	<SubTexture name="down0001" x="374" y="0" width="356" height="413" frameX="-21" frameY="0" frameWidth="377" frameHeight="420"/>
+	<SubTexture name="idle0000" x="730" y="0" width="394" height="424" frameX="-7" frameY="0" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="idle0001" x="1124" y="0" width="372" height="404" frameX="-6" frameY="-4" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="idle0002" x="1496" y="0" width="353" height="409" frameX="-14" frameY="-13" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="idle0003" x="1849" y="0" width="346" height="405" frameX="-18" frameY="-13" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="idle0004" x="2195" y="0" width="338" height="409" frameX="-26" frameY="-13" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="idle0005" x="2533" y="0" width="352" height="435" frameX="-33" frameY="-3" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="idle0006" x="2885" y="0" width="389" height="437" frameX="0" frameY="-1" frameWidth="401" frameHeight="438"/>
+	<SubTexture name="left0000" x="3274" y="0" width="394" height="430" frameX="0" frameY="-14" frameWidth="397" frameHeight="451"/>
+	<SubTexture name="left0001" x="3668" y="0" width="365" height="451" frameX="-32" frameY="0" frameWidth="397" frameHeight="451"/>
+	<SubTexture name="lmao balls0000" x="0" y="451" width="480" height="358" frameX="-358" frameY="-225" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0001" x="480" y="451" width="561" height="340" frameX="-298" frameY="-273" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0002" x="1041" y="451" width="576" height="257" frameX="-283" frameY="-357" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0003" x="1617" y="451" width="576" height="263" frameX="-283" frameY="-351" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0004" x="1617" y="451" width="576" height="263" frameX="-283" frameY="-351" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0005" x="1617" y="451" width="576" height="263" frameX="-283" frameY="-351" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0006" x="1617" y="451" width="576" height="263" frameX="-283" frameY="-351" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0007" x="1617" y="451" width="576" height="263" frameX="-283" frameY="-351" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0008" x="1617" y="451" width="576" height="263" frameX="-283" frameY="-351" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0009" x="1617" y="451" width="576" height="263" frameX="-283" frameY="-351" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0010" x="1617" y="451" width="576" height="263" frameX="-283" frameY="-351" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0011" x="1617" y="451" width="576" height="263" frameX="-283" frameY="-351" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0012" x="1617" y="451" width="576" height="263" frameX="-283" frameY="-351" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0013" x="2193" y="451" width="859" height="505" frameX="0" frameY="-109" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0014" x="3052" y="451" width="577" height="485" frameX="-282" frameY="-129" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0015" x="0" y="956" width="530" height="605" frameX="-282" frameY="-9" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0016" x="530" y="956" width="384" height="601" frameX="-363" frameY="-3" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0017" x="914" y="956" width="380" height="604" frameX="-375" frameY="0" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0018" x="1294" y="956" width="393" height="244" frameX="-359" frameY="-360" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0019" x="1687" y="956" width="332" height="244" frameX="-371" frameY="-360" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0020" x="2019" y="956" width="305" height="244" frameX="-394" frameY="-360" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0021" x="2324" y="956" width="220" height="244" frameX="-450" frameY="-360" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0022" x="2324" y="956" width="220" height="244" frameX="-450" frameY="-360" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0023" x="2324" y="956" width="220" height="244" frameX="-450" frameY="-360" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0024" x="2324" y="956" width="220" height="244" frameX="-450" frameY="-360" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0025" x="2324" y="956" width="220" height="244" frameX="-450" frameY="-360" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0026" x="2324" y="956" width="220" height="244" frameX="-450" frameY="-360" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0027" x="2324" y="956" width="220" height="244" frameX="-450" frameY="-360" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0028" x="2324" y="956" width="220" height="244" frameX="-450" frameY="-360" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0029" x="2544" y="956" width="220" height="244" frameX="-450" frameY="-360" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0030" x="2764" y="956" width="220" height="244" frameX="-450" frameY="-360" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="lmao balls0031" x="2764" y="956" width="220" height="244" frameX="-450" frameY="-360" frameWidth="859" frameHeight="614"/>
+	<SubTexture name="right0000" x="2984" y="956" width="440" height="447" frameX="-17" frameY="0" frameWidth="457" frameHeight="450"/>
+	<SubTexture name="right0001" x="3424" y="956" width="413" height="424" frameX="0" frameY="-26" frameWidth="457" frameHeight="450"/>
+	<SubTexture name="up0000" x="0" y="1561" width="407" height="437" frameX="-1" frameY="0" frameWidth="408" frameHeight="457"/>
+	<SubTexture name="up0001" x="407" y="1561" width="408" height="425" frameX="0" frameY="-32" frameWidth="408" frameHeight="457"/>
+</TextureAtlas>

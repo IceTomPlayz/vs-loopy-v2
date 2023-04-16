@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Peenat.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Peenat down0000" x="0" y="0" width="475" height="554" frameX="0" frameY="-13" frameWidth="475" frameHeight="567"/>
+	<SubTexture name="Peenat down0001" x="0" y="0" width="475" height="554" frameX="0" frameY="-13" frameWidth="475" frameHeight="567"/>
+	<SubTexture name="Peenat down0002" x="475" y="0" width="475" height="565" frameX="0" frameY="-2" frameWidth="475" frameHeight="567"/>
+	<SubTexture name="Peenat down0003" x="475" y="0" width="475" height="565" frameX="0" frameY="-2" frameWidth="475" frameHeight="567"/>
+	<SubTexture name="Peenat down0004" x="950" y="0" width="475" height="567"/>
+	<SubTexture name="Peenat down0005" x="950" y="0" width="475" height="567"/>
+	<SubTexture name="Peenat down0006" x="950" y="0" width="475" height="567"/>
+	<SubTexture name="Peenat down0007" x="950" y="0" width="475" height="567"/>
+	<SubTexture name="Peenat down0008" x="950" y="0" width="475" height="567"/>
+	<SubTexture name="Peenat down0009" x="950" y="0" width="475" height="567"/>
+	<SubTexture name="Peenat down0010" x="950" y="0" width="475" height="567"/>
+	<SubTexture name="Peenat down0011" x="950" y="0" width="475" height="567"/>
+	<SubTexture name="Peenat down0012" x="950" y="0" width="475" height="567"/>
+	<SubTexture name="Peenat down0013" x="950" y="0" width="475" height="567"/>
+	<SubTexture name="Peenat idle 0000" x="1425" y="0" width="475" height="575" frameX="0" frameY="-6" frameWidth="475" frameHeight="581"/>
+	<SubTexture name="Peenat idle 0001" x="1425" y="0" width="475" height="575" frameX="0" frameY="-6" frameWidth="475" frameHeight="581"/>
+	<SubTexture name="Peenat idle 0002" x="1900" y="0" width="475" height="580" frameX="0" frameY="-1" frameWidth="475" frameHeight="581"/>
+	<SubTexture name="Peenat idle 0003" x="1900" y="0" width="475" height="580" frameX="0" frameY="-1" frameWidth="475" frameHeight="581"/>
+	<SubTexture name="Peenat idle 0004" x="2375" y="0" width="475" height="581"/>
+	<SubTexture name="Peenat idle 0005" x="2375" y="0" width="475" height="581"/>
+	<SubTexture name="Peenat idle 0006" x="2850" y="0" width="475" height="581"/>
+	<SubTexture name="Peenat idle 0007" x="2850" y="0" width="475" height="581"/>
+	<SubTexture name="Peenat idle 0008" x="2850" y="0" width="475" height="581"/>
+	<SubTexture name="Peenat idle 0009" x="2850" y="0" width="475" height="581"/>
+	<SubTexture name="Peenat idle 0010" x="2850" y="0" width="475" height="581"/>
+	<SubTexture name="Peenat idle 0011" x="2850" y="0" width="475" height="581"/>
+	<SubTexture name="Peenat idle 0012" x="2850" y="0" width="475" height="581"/>
+	<SubTexture name="Peenat idle 0013" x="2850" y="0" width="475" height="581"/>
+	<SubTexture name="Peenat left0000" x="3325" y="0" width="475" height="577" frameX="0" frameY="-2" frameWidth="475" frameHeight="579"/>
+	<SubTexture name="Peenat left0001" x="3325" y="0" width="475" height="577" frameX="0" frameY="-2" frameWidth="475" frameHeight="579"/>
+	<SubTexture name="Peenat left0002" x="0" y="581" width="475" height="579"/>
+	<SubTexture name="Peenat left0003" x="0" y="581" width="475" height="579"/>
+	<SubTexture name="Peenat left0004" x="475" y="581" width="475" height="579"/>
+	<SubTexture name="Peenat left0005" x="475" y="581" width="475" height="579"/>
+	<SubTexture name="Peenat left0006" x="475" y="581" width="475" height="579"/>
+	<SubTexture name="Peenat left0007" x="475" y="581" width="475" height="579"/>
+	<SubTexture name="Peenat left0008" x="475" y="581" width="475" height="579"/>
+	<SubTexture name="Peenat left0009" x="475" y="581" width="475" height="579"/>
+	<SubTexture name="Peenat left0010" x="475" y="581" width="475" height="579"/>
+	<SubTexture name="Peenat left0011" x="475" y="581" width="475" height="579"/>
+	<SubTexture name="Peenat left0012" x="475" y="581" width="475" height="579"/>
+	<SubTexture name="Peenat left0013" x="475" y="581" width="475" height="579"/>
+	<SubTexture name="Peenat right0000" x="950" y="581" width="475" height="577" frameX="0" frameY="-4" frameWidth="475" frameHeight="581"/>
+	<SubTexture name="Peenat right0001" x="950" y="581" width="475" height="577" frameX="0" frameY="-4" frameWidth="475" frameHeight="581"/>
+	<SubTexture name="Peenat right0002" x="1425" y="581" width="475" height="581"/>
+	<SubTexture name="Peenat right0003" x="1425" y="581" width="475" height="581"/>
+	<SubTexture name="Peenat right0004" x="1900" y="581" width="475" height="581"/>
+	<SubTexture name="Peenat right0005" x="1900" y="581" width="475" height="581"/>
+	<SubTexture name="Peenat right0006" x="1900" y="581" width="475" height="581"/>
+	<SubTexture name="Peenat right0007" x="1900" y="581" width="475" height="581"/>
+	<SubTexture name="Peenat right0008" x="1900" y="581" width="475" height="581"/>
+	<SubTexture name="Peenat right0009" x="1900" y="581" width="475" height="581"/>
+	<SubTexture name="Peenat right0010" x="1900" y="581" width="475" height="581"/>
+	<SubTexture name="Peenat right0011" x="1900" y="581" width="475" height="581"/>
+	<SubTexture name="Peenat right0012" x="1900" y="581" width="475" height="581"/>
+	<SubTexture name="Peenat right0013" x="1900" y="581" width="475" height="581"/>
+	<SubTexture name="Peenat up0000" x="2375" y="581" width="475" height="641"/>
+	<SubTexture name="Peenat up0001" x="2375" y="581" width="475" height="641"/>
+	<SubTexture name="Peenat up0002" x="2850" y="581" width="475" height="621" frameX="0" frameY="-20" frameWidth="475" frameHeight="641"/>
+	<SubTexture name="Peenat up0003" x="2850" y="581" width="475" height="621" frameX="0" frameY="-20" frameWidth="475" frameHeight="641"/>
+	<SubTexture name="Peenat up0004" x="3325" y="581" width="475" height="618" frameX="0" frameY="-23" frameWidth="475" frameHeight="641"/>
+	<SubTexture name="Peenat up0005" x="3325" y="581" width="475" height="618" frameX="0" frameY="-23" frameWidth="475" frameHeight="641"/>
+	<SubTexture name="Peenat up0006" x="3325" y="581" width="475" height="618" frameX="0" frameY="-23" frameWidth="475" frameHeight="641"/>
+	<SubTexture name="Peenat up0007" x="3325" y="581" width="475" height="618" frameX="0" frameY="-23" frameWidth="475" frameHeight="641"/>
+	<SubTexture name="Peenat up0008" x="3325" y="581" width="475" height="618" frameX="0" frameY="-23" frameWidth="475" frameHeight="641"/>
+	<SubTexture name="Peenat up0009" x="3325" y="581" width="475" height="618" frameX="0" frameY="-23" frameWidth="475" frameHeight="641"/>
+	<SubTexture name="Peenat up0010" x="3325" y="581" width="475" height="618" frameX="0" frameY="-23" frameWidth="475" frameHeight="641"/>
+	<SubTexture name="Peenat up0011" x="3325" y="581" width="475" height="618" frameX="0" frameY="-23" frameWidth="475" frameHeight="641"/>
+	<SubTexture name="Peenat up0012" x="3325" y="581" width="475" height="618" frameX="0" frameY="-23" frameWidth="475" frameHeight="641"/>
+	<SubTexture name="Peenat up0013" x="3325" y="581" width="475" height="618" frameX="0" frameY="-23" frameWidth="475" frameHeight="641"/>
+</TextureAtlas>

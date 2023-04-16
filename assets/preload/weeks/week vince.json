@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"vince",
+			"vince",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"freestyle",
+			"vince",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"relax",
+			"vince",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Skate Park Scuffle",
+	"weekName": "Skate Park Scuffle",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week bill",
+	"startUnlocked": false
+}

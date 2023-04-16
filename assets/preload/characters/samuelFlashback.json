@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-230,
+				-360
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Samuel idle"
+		},
+		{
+			"offsets": [
+				-356,
+				369
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Samuel up"
+		},
+		{
+			"offsets": [
+				261,
+				-184
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Samuel left"
+		},
+		{
+			"offsets": [
+				-210,
+				-394
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Samuel down"
+		},
+		{
+			"offsets": [
+				-229,
+				-356
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Samuel right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/samuel_flashback",
+	"position": [
+		-200,
+		-130
+	],
+	"healthicon": "blunder",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		153,
+		0
+	],
+	"camera_position": [
+		290,
+		370
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

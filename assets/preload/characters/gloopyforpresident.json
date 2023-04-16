@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				-242
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Gloopy idle"
+		},
+		{
+			"offsets": [
+				-60,
+				-198
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Gloopy up"
+		},
+		{
+			"offsets": [
+				-60,
+				-272
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Gloopy down"
+		},
+		{
+			"offsets": [
+				-60,
+				-251
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Gloopy left"
+		},
+		{
+			"offsets": [
+				-60,
+				-262
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Gloopy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sludge 4 prez",
+	"position": [
+		-60,
+		-50
+	],
+	"healthicon": "gloop",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		217,
+		72
+	],
+	"camera_position": [
+		-160,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

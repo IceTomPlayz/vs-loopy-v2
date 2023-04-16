@@ -1,0 +1,50 @@
+{
+	"storyName": "Vs Gloopy",
+	"difficulties": "Normal, Erect",
+	"hideFreeplay": false,
+	"weekBackground": "gloopy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Gloopy",
+			"gloop",
+			[
+				0,
+				255,
+				80
+			]
+		],
+		[
+			"Macaroni",
+			"mad",
+			[
+				0,
+				255,
+				80
+			]
+		],
+		[
+			"ball-deodorant",
+			"tractor",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "don't you dare restart",
+	"hiddenUntilUnlocked": false
+}

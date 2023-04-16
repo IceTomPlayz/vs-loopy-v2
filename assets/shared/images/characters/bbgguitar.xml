@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bbgguitar.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BBG Shred idle instance 10000" x="0" y="0" width="358" height="493" frameX="0" frameY="-12" frameWidth="358" frameHeight="505"/>
+	<SubTexture name="BBG Shred idle instance 10001" x="358" y="0" width="358" height="493" frameX="0" frameY="-12" frameWidth="358" frameHeight="505"/>
+	<SubTexture name="BBG Shred idle instance 10002" x="716" y="0" width="356" height="494" frameX="-2" frameY="-11" frameWidth="358" frameHeight="505"/>
+	<SubTexture name="BBG Shred idle instance 10003" x="1072" y="0" width="356" height="494" frameX="-2" frameY="-11" frameWidth="358" frameHeight="505"/>
+	<SubTexture name="BBG Shred idle instance 10004" x="1428" y="0" width="354" height="504" frameX="-4" frameY="-1" frameWidth="358" frameHeight="505"/>
+	<SubTexture name="BBG Shred idle instance 10005" x="1782" y="0" width="354" height="504" frameX="-4" frameY="-1" frameWidth="358" frameHeight="505"/>
+	<SubTexture name="BBG Shred idle instance 10006" x="2136" y="0" width="354" height="505" frameX="-4" frameY="0" frameWidth="358" frameHeight="505"/>
+	<SubTexture name="BBG Shred idle instance 10007" x="2490" y="0" width="354" height="505" frameX="-4" frameY="0" frameWidth="358" frameHeight="505"/>
+	<SubTexture name="BBG Shred idle instance 10008" x="2844" y="0" width="354" height="505" frameX="-4" frameY="0" frameWidth="358" frameHeight="505"/>
+	<SubTexture name="BBG Shred idle instance 10009" x="3198" y="0" width="354" height="505" frameX="-4" frameY="0" frameWidth="358" frameHeight="505"/>
+	<SubTexture name="bbg lipsync instance 10000" x="3552" y="0" width="356" height="460" frameX="0" frameY="0" frameWidth="456" frameHeight="505"/>
+	<SubTexture name="bbg lipsync instance 10001" x="0" y="505" width="356" height="460" frameX="0" frameY="0" frameWidth="456" frameHeight="505"/>
+	<SubTexture name="bbg lipsync instance 10002" x="356" y="505" width="385" height="460" frameX="0" frameY="0" frameWidth="456" frameHeight="505"/>
+	<SubTexture name="bbg lipsync instance 10003" x="741" y="505" width="385" height="460" frameX="0" frameY="0" frameWidth="456" frameHeight="505"/>
+	<SubTexture name="bbg lipsync instance 10004" x="1126" y="505" width="456" height="460" frameX="0" frameY="0" frameWidth="456" frameHeight="505"/>
+	<SubTexture name="bbg lipsync instance 10005" x="1582" y="505" width="456" height="460" frameX="0" frameY="0" frameWidth="456" frameHeight="505"/>
+	<SubTexture name="bbg lipsync instance 10006" x="2038" y="505" width="373" height="460" frameX="-25" frameY="0" frameWidth="456" frameHeight="505"/>
+	<SubTexture name="bbg lipsync instance 10007" x="2411" y="505" width="373" height="460" frameX="-25" frameY="0" frameWidth="456" frameHeight="505"/>
+	<SubTexture name="bbg lipsync instance 10008" x="2784" y="505" width="354" height="505" frameX="-48" frameY="0" frameWidth="456" frameHeight="505"/>
+	<SubTexture name="bbg lipsync instance 10009" x="3138" y="505" width="354" height="505" frameX="-48" frameY="0" frameWidth="456" frameHeight="505"/>
+	<SubTexture name="bbg lipsync instance 10010" x="3492" y="505" width="354" height="503" frameX="-48" frameY="0" frameWidth="456" frameHeight="505"/>
+	<SubTexture name="bbg lipsync instance 10011" x="0" y="1010" width="354" height="503" frameX="-48" frameY="0" frameWidth="456" frameHeight="505"/>
+	<SubTexture name="bbg lipsync instance 10012" x="354" y="1010" width="354" height="505" frameX="-48" frameY="0" frameWidth="456" frameHeight="505"/>
+	<SubTexture name="bbg lipsync instance 10013" x="708" y="1010" width="354" height="505" frameX="-48" frameY="0" frameWidth="456" frameHeight="505"/>
+	<SubTexture name="down shredding instance 10000" x="1062" y="1010" width="436" height="473" frameX="-5" frameY="-16" frameWidth="441" frameHeight="489"/>
+	<SubTexture name="down shredding instance 10001" x="1498" y="1010" width="436" height="473" frameX="-5" frameY="-16" frameWidth="441" frameHeight="489"/>
+	<SubTexture name="down shredding instance 10002" x="1934" y="1010" width="433" height="489" frameX="-1" frameY="0" frameWidth="441" frameHeight="489"/>
+	<SubTexture name="down shredding instance 10003" x="2367" y="1010" width="433" height="489" frameX="-1" frameY="0" frameWidth="441" frameHeight="489"/>
+	<SubTexture name="down shredding instance 10004" x="2800" y="1010" width="438" height="489" frameX="0" frameY="0" frameWidth="441" frameHeight="489"/>
+	<SubTexture name="down shredding instance 10005" x="3238" y="1010" width="438" height="489" frameX="0" frameY="0" frameWidth="441" frameHeight="489"/>
+	<SubTexture name="down shredding instance 10006" x="3676" y="1010" width="365" height="489" frameX="0" frameY="0" frameWidth="441" frameHeight="489"/>
+	<SubTexture name="down shredding instance 10007" x="0" y="1515" width="365" height="489" frameX="0" frameY="0" frameWidth="441" frameHeight="489"/>
+	<SubTexture name="down shredding instance 10008" x="365" y="1515" width="365" height="489" frameX="0" frameY="0" frameWidth="441" frameHeight="489"/>
+	<SubTexture name="down shredding instance 10009" x="730" y="1515" width="365" height="489" frameX="0" frameY="0" frameWidth="441" frameHeight="489"/>
+	<SubTexture name="left shredding  instance 10000" x="1095" y="1515" width="421" height="503" frameX="0" frameY="0" frameWidth="428" frameHeight="503"/>
+	<SubTexture name="left shredding  instance 10001" x="1516" y="1515" width="421" height="503" frameX="0" frameY="0" frameWidth="428" frameHeight="503"/>
+	<SubTexture name="left shredding  instance 10002" x="1937" y="1515" width="395" height="499" frameX="-26" frameY="-4" frameWidth="428" frameHeight="503"/>
+	<SubTexture name="left shredding  instance 10003" x="2332" y="1515" width="395" height="499" frameX="-26" frameY="-4" frameWidth="428" frameHeight="503"/>
+	<SubTexture name="left shredding  instance 10004" x="2727" y="1515" width="395" height="498" frameX="-33" frameY="-5" frameWidth="428" frameHeight="503"/>
+	<SubTexture name="left shredding  instance 10005" x="3122" y="1515" width="395" height="498" frameX="-33" frameY="-5" frameWidth="428" frameHeight="503"/>
+	<SubTexture name="left shredding  instance 10006" x="3517" y="1515" width="366" height="498" frameX="-33" frameY="-5" frameWidth="428" frameHeight="503"/>
+	<SubTexture name="left shredding  instance 10007" x="0" y="2018" width="366" height="498" frameX="-33" frameY="-5" frameWidth="428" frameHeight="503"/>
+	<SubTexture name="left shredding  instance 10008" x="366" y="2018" width="366" height="498" frameX="-33" frameY="-5" frameWidth="428" frameHeight="503"/>
+	<SubTexture name="left shredding  instance 10009" x="732" y="2018" width="366" height="498" frameX="-33" frameY="-5" frameWidth="428" frameHeight="503"/>
+	<SubTexture name="right shredding instance 10000" x="1098" y="2018" width="486" height="499" frameX="-1" frameY="0" frameWidth="493" frameHeight="499"/>
+	<SubTexture name="right shredding instance 10001" x="1584" y="2018" width="486" height="499" frameX="-1" frameY="0" frameWidth="493" frameHeight="499"/>
+	<SubTexture name="right shredding instance 10002" x="2070" y="2018" width="493" height="499"/>
+	<SubTexture name="right shredding instance 10003" x="2563" y="2018" width="493" height="499"/>
+	<SubTexture name="right shredding instance 10004" x="3056" y="2018" width="491" height="498" frameX="0" frameY="-1" frameWidth="493" frameHeight="499"/>
+	<SubTexture name="right shredding instance 10005" x="3547" y="2018" width="491" height="498" frameX="0" frameY="-1" frameWidth="493" frameHeight="499"/>
+	<SubTexture name="right shredding instance 10006" x="0" y="2517" width="387" height="498" frameX="0" frameY="-1" frameWidth="493" frameHeight="499"/>
+	<SubTexture name="right shredding instance 10007" x="387" y="2517" width="387" height="498" frameX="0" frameY="-1" frameWidth="493" frameHeight="499"/>
+	<SubTexture name="right shredding instance 10008" x="774" y="2517" width="387" height="498" frameX="0" frameY="-1" frameWidth="493" frameHeight="499"/>
+	<SubTexture name="right shredding instance 10009" x="1161" y="2517" width="387" height="498" frameX="0" frameY="-1" frameWidth="493" frameHeight="499"/>
+	<SubTexture name="up shred instance 10000" x="1548" y="2517" width="425" height="538" frameX="0" frameY="0" frameWidth="453" frameHeight="538"/>
+	<SubTexture name="up shred instance 10001" x="1973" y="2517" width="425" height="538" frameX="0" frameY="0" frameWidth="453" frameHeight="538"/>
+	<SubTexture name="up shred instance 10002" x="2398" y="2517" width="414" height="524" frameX="-11" frameY="-14" frameWidth="453" frameHeight="538"/>
+	<SubTexture name="up shred instance 10003" x="2812" y="2517" width="414" height="524" frameX="-11" frameY="-14" frameWidth="453" frameHeight="538"/>
+	<SubTexture name="up shred instance 10004" x="3226" y="2517" width="429" height="524" frameX="-11" frameY="-14" frameWidth="453" frameHeight="538"/>
+	<SubTexture name="up shred instance 10005" x="3655" y="2517" width="429" height="524" frameX="-11" frameY="-14" frameWidth="453" frameHeight="538"/>
+	<SubTexture name="up shred instance 10006" x="0" y="3055" width="442" height="524" frameX="-11" frameY="-14" frameWidth="453" frameHeight="538"/>
+	<SubTexture name="up shred instance 10007" x="442" y="3055" width="442" height="524" frameX="-11" frameY="-14" frameWidth="453" frameHeight="538"/>
+	<SubTexture name="up shred instance 10008" x="884" y="3055" width="364" height="524" frameX="-11" frameY="-14" frameWidth="453" frameHeight="538"/>
+	<SubTexture name="up shred instance 10009" x="1248" y="3055" width="364" height="524" frameX="-11" frameY="-14" frameWidth="453" frameHeight="538"/>
+</TextureAtlas>

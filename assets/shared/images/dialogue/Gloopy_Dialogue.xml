@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gloopy_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mad0000" x="0" y="0" width="175" height="232" frameX="-2" frameY="0" frameWidth="181" frameHeight="232"/>
+	<SubTexture name="mad0001" x="0" y="0" width="175" height="232" frameX="-2" frameY="0" frameWidth="181" frameHeight="232"/>
+	<SubTexture name="mad0002" x="175" y="0" width="180" height="220" frameX="0" frameY="-12" frameWidth="181" frameHeight="232"/>
+	<SubTexture name="mad0003" x="175" y="0" width="180" height="220" frameX="0" frameY="-12" frameWidth="181" frameHeight="232"/>
+	<SubTexture name="mad0004" x="355" y="0" width="181" height="217" frameX="0" frameY="-15" frameWidth="181" frameHeight="232"/>
+	<SubTexture name="mad0005" x="355" y="0" width="181" height="217" frameX="0" frameY="-15" frameWidth="181" frameHeight="232"/>
+	<SubTexture name="mad0006" x="536" y="0" width="181" height="217" frameX="0" frameY="-15" frameWidth="181" frameHeight="232"/>
+	<SubTexture name="mad0007" x="536" y="0" width="181" height="217" frameX="0" frameY="-15" frameWidth="181" frameHeight="232"/>
+	<SubTexture name="normal0000" x="717" y="0" width="185" height="225" frameX="-2" frameY="0" frameWidth="187" frameHeight="225"/>
+	<SubTexture name="normal0001" x="717" y="0" width="185" height="225" frameX="-2" frameY="0" frameWidth="187" frameHeight="225"/>
+	<SubTexture name="normal0002" x="0" y="232" width="187" height="215" frameX="0" frameY="-10" frameWidth="187" frameHeight="225"/>
+	<SubTexture name="normal0003" x="0" y="232" width="187" height="215" frameX="0" frameY="-10" frameWidth="187" frameHeight="225"/>
+	<SubTexture name="normal0004" x="187" y="232" width="187" height="212" frameX="0" frameY="-13" frameWidth="187" frameHeight="225"/>
+	<SubTexture name="normal0005" x="187" y="232" width="187" height="212" frameX="0" frameY="-13" frameWidth="187" frameHeight="225"/>
+	<SubTexture name="normal0006" x="374" y="232" width="187" height="215" frameX="0" frameY="-10" frameWidth="187" frameHeight="225"/>
+	<SubTexture name="normal0007" x="374" y="232" width="187" height="215" frameX="0" frameY="-10" frameWidth="187" frameHeight="225"/>
+</TextureAtlas>

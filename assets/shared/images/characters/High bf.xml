@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="High bf.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="high ass bru0000" x="0" y="0" width="386" height="452"/>
+	<SubTexture name="high ass bru0001" x="0" y="0" width="386" height="452"/>
+	<SubTexture name="high ass bru0002" x="0" y="0" width="386" height="452"/>
+	<SubTexture name="high ass bru0003" x="0" y="0" width="386" height="452"/>
+	<SubTexture name="high ass bru0004" x="0" y="0" width="386" height="452"/>
+	<SubTexture name="high ass bru0005" x="0" y="0" width="386" height="452"/>
+	<SubTexture name="high ass bru0006" x="0" y="0" width="386" height="452"/>
+	<SubTexture name="high ass bru0007" x="0" y="0" width="386" height="452"/>
+	<SubTexture name="high ass bru0008" x="0" y="0" width="386" height="452"/>
+	<SubTexture name="high ass bru0009" x="0" y="0" width="386" height="452"/>
+	<SubTexture name="high ass bru0010" x="0" y="0" width="386" height="452"/>
+	<SubTexture name="high ass bru0011" x="0" y="0" width="386" height="452"/>
+	<SubTexture name="high ass bru0012" x="0" y="0" width="386" height="452"/>
+	<SubTexture name="high ass bru0013" x="0" y="0" width="386" height="452"/>
+	<SubTexture name="high ass down0000" x="386" y="0" width="386" height="419" frameX="0" frameY="-12" frameWidth="386" frameHeight="432"/>
+	<SubTexture name="high ass down0001" x="386" y="0" width="386" height="419" frameX="0" frameY="-12" frameWidth="386" frameHeight="432"/>
+	<SubTexture name="high ass down0002" x="772" y="0" width="386" height="432"/>
+	<SubTexture name="high ass down0003" x="772" y="0" width="386" height="432"/>
+	<SubTexture name="high ass down0004" x="772" y="0" width="386" height="432"/>
+	<SubTexture name="high ass down0005" x="772" y="0" width="386" height="432"/>
+	<SubTexture name="high ass down0006" x="772" y="0" width="386" height="432"/>
+	<SubTexture name="high ass down0007" x="772" y="0" width="386" height="432"/>
+	<SubTexture name="high ass down0008" x="772" y="0" width="386" height="432"/>
+	<SubTexture name="high ass down0009" x="772" y="0" width="386" height="432"/>
+	<SubTexture name="high ass down0010" x="772" y="0" width="386" height="432"/>
+	<SubTexture name="high ass down0011" x="772" y="0" width="386" height="432"/>
+	<SubTexture name="high ass down0012" x="772" y="0" width="386" height="432"/>
+	<SubTexture name="high ass down0013" x="772" y="0" width="386" height="432"/>
+	<SubTexture name="high ass idle0000" x="1158" y="0" width="386" height="452"/>
+	<SubTexture name="high ass idle0001" x="1158" y="0" width="386" height="452"/>
+	<SubTexture name="high ass idle0002" x="1158" y="0" width="386" height="452"/>
+	<SubTexture name="high ass idle0003" x="1158" y="0" width="386" height="452"/>
+	<SubTexture name="high ass idle0004" x="1158" y="0" width="386" height="452"/>
+	<SubTexture name="high ass idle0005" x="1158" y="0" width="386" height="452"/>
+	<SubTexture name="high ass idle0006" x="1158" y="0" width="386" height="452"/>
+	<SubTexture name="high ass idle0007" x="1158" y="0" width="386" height="452"/>
+	<SubTexture name="high ass idle0008" x="1158" y="0" width="386" height="452"/>
+	<SubTexture name="high ass idle0009" x="1158" y="0" width="386" height="452"/>
+	<SubTexture name="high ass idle0010" x="1158" y="0" width="386" height="452"/>
+	<SubTexture name="high ass idle0011" x="1158" y="0" width="386" height="452"/>
+	<SubTexture name="high ass idle0012" x="1158" y="0" width="386" height="452"/>
+	<SubTexture name="high ass idle0013" x="1158" y="0" width="386" height="452"/>
+	<SubTexture name="high ass left0000" x="1544" y="0" width="381" height="452" frameX="0" frameY="0" frameWidth="388" frameHeight="452"/>
+	<SubTexture name="high ass left0001" x="1544" y="0" width="381" height="452" frameX="0" frameY="0" frameWidth="388" frameHeight="452"/>
+	<SubTexture name="high ass left0002" x="0" y="452" width="386" height="452" frameX="-2" frameY="0" frameWidth="388" frameHeight="452"/>
+	<SubTexture name="high ass left0003" x="0" y="452" width="386" height="452" frameX="-2" frameY="0" frameWidth="388" frameHeight="452"/>
+	<SubTexture name="high ass left0004" x="0" y="452" width="386" height="452" frameX="-2" frameY="0" frameWidth="388" frameHeight="452"/>
+	<SubTexture name="high ass left0005" x="0" y="452" width="386" height="452" frameX="-2" frameY="0" frameWidth="388" frameHeight="452"/>
+	<SubTexture name="high ass left0006" x="0" y="452" width="386" height="452" frameX="-2" frameY="0" frameWidth="388" frameHeight="452"/>
+	<SubTexture name="high ass left0007" x="0" y="452" width="386" height="452" frameX="-2" frameY="0" frameWidth="388" frameHeight="452"/>
+	<SubTexture name="high ass left0008" x="0" y="452" width="386" height="452" frameX="-2" frameY="0" frameWidth="388" frameHeight="452"/>
+	<SubTexture name="high ass left0009" x="0" y="452" width="386" height="452" frameX="-2" frameY="0" frameWidth="388" frameHeight="452"/>
+	<SubTexture name="high ass left0010" x="0" y="452" width="386" height="452" frameX="-2" frameY="0" frameWidth="388" frameHeight="452"/>
+	<SubTexture name="high ass left0011" x="0" y="452" width="386" height="452" frameX="-2" frameY="0" frameWidth="388" frameHeight="452"/>
+	<SubTexture name="high ass left0012" x="0" y="452" width="386" height="452" frameX="-2" frameY="0" frameWidth="388" frameHeight="452"/>
+	<SubTexture name="high ass left0013" x="0" y="452" width="386" height="452" frameX="-2" frameY="0" frameWidth="388" frameHeight="452"/>
+	<SubTexture name="high ass right0000" x="386" y="452" width="394" height="452" frameX="-1" frameY="0" frameWidth="395" frameHeight="452"/>
+	<SubTexture name="high ass right0001" x="386" y="452" width="394" height="452" frameX="-1" frameY="0" frameWidth="395" frameHeight="452"/>
+	<SubTexture name="high ass right0002" x="780" y="452" width="392" height="452" frameX="0" frameY="0" frameWidth="395" frameHeight="452"/>
+	<SubTexture name="high ass right0003" x="780" y="452" width="392" height="452" frameX="0" frameY="0" frameWidth="395" frameHeight="452"/>
+	<SubTexture name="high ass right0004" x="780" y="452" width="392" height="452" frameX="0" frameY="0" frameWidth="395" frameHeight="452"/>
+	<SubTexture name="high ass right0005" x="780" y="452" width="392" height="452" frameX="0" frameY="0" frameWidth="395" frameHeight="452"/>
+	<SubTexture name="high ass right0006" x="780" y="452" width="392" height="452" frameX="0" frameY="0" frameWidth="395" frameHeight="452"/>
+	<SubTexture name="high ass right0007" x="780" y="452" width="392" height="452" frameX="0" frameY="0" frameWidth="395" frameHeight="452"/>
+	<SubTexture name="high ass right0008" x="780" y="452" width="392" height="452" frameX="0" frameY="0" frameWidth="395" frameHeight="452"/>
+	<SubTexture name="high ass right0009" x="780" y="452" width="392" height="452" frameX="0" frameY="0" frameWidth="395" frameHeight="452"/>
+	<SubTexture name="high ass right0010" x="780" y="452" width="392" height="452" frameX="0" frameY="0" frameWidth="395" frameHeight="452"/>
+	<SubTexture name="high ass right0011" x="780" y="452" width="392" height="452" frameX="0" frameY="0" frameWidth="395" frameHeight="452"/>
+	<SubTexture name="high ass right0012" x="780" y="452" width="392" height="452" frameX="0" frameY="0" frameWidth="395" frameHeight="452"/>
+	<SubTexture name="high ass right0013" x="780" y="452" width="392" height="452" frameX="0" frameY="0" frameWidth="395" frameHeight="452"/>
+	<SubTexture name="high ass up0000" x="1172" y="452" width="386" height="466"/>
+	<SubTexture name="high ass up0001" x="1172" y="452" width="386" height="466"/>
+	<SubTexture name="high ass up0002" x="1558" y="452" width="386" height="462" frameX="0" frameY="-3" frameWidth="386" frameHeight="466"/>
+	<SubTexture name="high ass up0003" x="1558" y="452" width="386" height="462" frameX="0" frameY="-3" frameWidth="386" frameHeight="466"/>
+	<SubTexture name="high ass up0004" x="1558" y="452" width="386" height="462" frameX="0" frameY="-3" frameWidth="386" frameHeight="466"/>
+	<SubTexture name="high ass up0005" x="1558" y="452" width="386" height="462" frameX="0" frameY="-3" frameWidth="386" frameHeight="466"/>
+	<SubTexture name="high ass up0006" x="1558" y="452" width="386" height="462" frameX="0" frameY="-3" frameWidth="386" frameHeight="466"/>
+	<SubTexture name="high ass up0007" x="1558" y="452" width="386" height="462" frameX="0" frameY="-3" frameWidth="386" frameHeight="466"/>
+	<SubTexture name="high ass up0008" x="1558" y="452" width="386" height="462" frameX="0" frameY="-3" frameWidth="386" frameHeight="466"/>
+	<SubTexture name="high ass up0009" x="1558" y="452" width="386" height="462" frameX="0" frameY="-3" frameWidth="386" frameHeight="466"/>
+	<SubTexture name="high ass up0010" x="1558" y="452" width="386" height="462" frameX="0" frameY="-3" frameWidth="386" frameHeight="466"/>
+	<SubTexture name="high ass up0011" x="1558" y="452" width="386" height="462" frameX="0" frameY="-3" frameWidth="386" frameHeight="466"/>
+	<SubTexture name="high ass up0012" x="1558" y="452" width="386" height="462" frameX="0" frameY="-3" frameWidth="386" frameHeight="466"/>
+	<SubTexture name="high ass up0013" x="1558" y="452" width="386" height="462" frameX="0" frameY="-3" frameWidth="386" frameHeight="466"/>
+</TextureAtlas>
